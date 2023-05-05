@@ -1,4 +1,4 @@
-package managa_library.Repository;
+package managa_library.Status;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
